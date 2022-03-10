@@ -1,0 +1,4 @@
+yum install -y epel-release
+yum install -y cloud-utils
+LANG=en_US.UTF-8
+growpart /dev/vda 1
