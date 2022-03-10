@@ -1,0 +1,2 @@
+xfs_repair /dev/vdb
+xfs_growfs /data
